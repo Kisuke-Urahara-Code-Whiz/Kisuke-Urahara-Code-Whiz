@@ -1,6 +1,10 @@
 # Hi there 👋 I'm Sougata-Mondal!
 
-I’m a passionate developer with experience in backend development, data analysis, and web development. I love building projects that solve real-world problems and am constantly looking to learn new things.
+Hey there! I'm **Sougata Mondal** (but you can call me **Lykus** or **Sanzu** if you're feeling extra). I'm a code-wielding, game-loving developer who's all about crafting clean, functional web apps and diving deep into the world of AI and deep learning. You’ll catch me vibing with the MERN stack, wrangling data in Python, or leveling up my neural networks in PyTorch.
+
+When I'm not coding up a storm, I'm likely in a gaming grind or dishing out some top-tier banter. I’m here to build, break, and rebuild—because that’s the name of the game, right? So if you’re into backend magic, data wizardry, or just want to talk tech (or games), hit me up! 
+
+Let's make some cool stuff happen 💻🎮🚀
 
 🔭 **Currently working on:** Airbnb Clone  
 🌱 **Currently learning:** PyTorch Deep Learning, MERN Stack Web Development, Python Development  
@@ -47,8 +51,6 @@ Here are some of my favorite projects that I’ve worked on:
 [![GitHub](https://img.shields.io/badge/GitHub-Kisuke--Urahara--Code--Whiz-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kisuke-Urahara-Code-Whiz)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-CodeWhizLyKus-orange?style=flat&logo=firefox&logoColor=white)](https://codewhizlykus.netlify.app)
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Kisuke-Urahara-Code-Whiz.Kisuke-Urahara-Code-Whiz)  
----
 
 ### 🧩 Fun & Facts
 ![Coding GIF](https://i.gifer.com/EHil.gif)  
