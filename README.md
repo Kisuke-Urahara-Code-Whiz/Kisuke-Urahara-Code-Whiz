@@ -51,6 +51,6 @@ Here are some of my favorite projects that I’ve worked on:
 ---
 
 ### 🧩 Fun & Facts
-![Coding GIF](https://images.app.goo.gl/s8Wqq62NK3TBJ1286)  
+![Coding GIF](https://i.gifer.com/EHil.gif)  
 
 > "I love coding and gaming!"
