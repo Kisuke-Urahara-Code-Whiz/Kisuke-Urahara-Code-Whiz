@@ -8,7 +8,7 @@ Let's make some cool stuff happen 💻🎮🚀
 
 🔭 **Currently working on:** Airbnb Clone  
 🌱 **Currently learning:** PyTorch Deep Learning, MERN Stack Web Development, Python Development  
-💬 **Ask me about:** backend development, data analysis, web development  
+💬 **Ask me about:** Backend Development, Deep Learning, Web Development, Games  
 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/sougata-mondal-ba3430330), [GitHub](https://github.com/Kisuke-Urahara-Code-Whiz), [Portfolio](https://codewhizlykus.netlify.app)  
 ⚡ **Fun fact:** I love coding and gaming
 
