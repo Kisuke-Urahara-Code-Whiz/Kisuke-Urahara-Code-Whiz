@@ -53,6 +53,8 @@ Here are some of my favorite projects that I’ve worked on:
 [![GitHub](https://img.shields.io/badge/GitHub-Kisuke--Urahara--Code--Whiz-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kisuke-Urahara-Code-Whiz)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-CodeWhizLyKus-orange?style=flat&logo=firefox&logoColor=white)](https://codewhizlykus.netlify.app)
 
+---
+
 ![Open-Odyssey 1.0 Badge](74914c50-a32e-4e48-9e00-b28720a18028.png)  
 ---
 
