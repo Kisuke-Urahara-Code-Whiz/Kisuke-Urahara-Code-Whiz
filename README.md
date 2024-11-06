@@ -55,8 +55,7 @@ Here are some of my favorite projects that I’ve worked on:
 
 ---
 
-![Open-Odyssey 1.0 Badge](74914c50-a32e-4e48-9e00-b28720a18028.png)  
----
+[![An image of @kisukeuraharacodewhiz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kisukeuraharacodewhiz)](https://holopin.io/@kisukeuraharacodewhiz)
 
 
 ### 🧩 Fun & Facts
