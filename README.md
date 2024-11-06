@@ -55,8 +55,10 @@ Here are some of my favorite projects that I’ve worked on:
 
 ---
 
-[![An image of @kisukeuraharacodewhiz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kisukeuraharacodewhiz)](https://holopin.io/@kisukeuraharacodewhiz)
+[![An image of @kisukeuraharacodewhiz's Holopin badges, which is a link to view their full Holopin profile]
+(https://holopin.me/kisukeuraharacodewhiz)](https://holopin.io/@kisukeuraharacodewhiz)
 
+---
 
 ### 🧩 Fun & Facts
 ![Coding GIF](https://i.gifer.com/EHil.gif)  
