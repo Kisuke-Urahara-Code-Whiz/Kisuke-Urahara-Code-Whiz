@@ -42,12 +42,11 @@ Let's make some cool stuff happen 💻🎮🚀
 
 ---
 
-
-### GitHub Stats 📊
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=radical)
-
-### Most Used Languages 🧑‍💻
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&theme=radical)
+### GitHub Stats and Top Languages 📊
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
+</div>
 
 ### Contribution Graph 🌟
 [![GitHub Streak](https://streak-stats.demolab.com/?user=octocat&theme=radical)](https://git.io/streak-stats)
