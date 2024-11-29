@@ -42,19 +42,17 @@ Let's make some cool stuff happen 💻🎮🚀
 
 ---
 
-### GitHub Stats and Top Languages 📊
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
-</div>
+## 📈 GitHub Stats
+![Kisuke-Urahara-Code-Whiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kisuke-Urahara-Code-Whiz&show_icons=true&theme=radical) 
+
+### 🧑‍💻Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kisuke-Urahara-Code-Whiz&layout=compact&theme=radical)
 
 ### Contribution Graph 🌟
 [![GitHub Streak](https://streak-stats.demolab.com/?user=octocat&theme=radical)](https://git.io/streak-stats)
 
 ### GitHub Trophies 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=octocat&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 ---
 
