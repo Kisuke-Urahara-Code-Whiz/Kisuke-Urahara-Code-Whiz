@@ -2,7 +2,7 @@
 
 Hey there! I'm **Sougata Mondal** (but you can call me **Lykus** or **Sanzu** if you're feeling extra). I'm a code-wielding, game-loving developer who's all about crafting clean, functional web apps and diving deep into the world of AI and deep learning. You’ll catch me vibing with the MERN stack, wrangling data in Python, or leveling up my neural networks in PyTorch.
 
-When I'm not coding up a storm, I'm likely in a gaming grind or dishing out some top-tier banter. I’m here to build, break, and rebuild—because that’s the name of the game, right? So if you’re into backend magic, data wizardry, or just want to talk tech (or games), hit me up! 
+When I'm not coding up a storm, I'm likely in a gaming grind or dishing out some top-tier banter. I’m here to build, break, and rebuild—because that’s the name of the game, right? So if you’re into backend magic, data wizardry, or just want to talk tech (or games), hit me up!
 
 Let's make some cool stuff happen 💻🎮🚀
 
@@ -38,21 +38,21 @@ Let's make some cool stuff happen 💻🎮🚀
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-
-
 ---
 
-## 📈 GitHub Stats
-![Kisuke-Urahara-Code-Whiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kisuke-Urahara-Code-Whiz&show_icons=true&theme=radical) 
+## 📊 GitHub Stats & Insights
 
-### 🧑‍💻Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kisuke-Urahara-Code-Whiz&layout=compact&theme=radical)
+### 🔥 **GitHub Streak**
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kisuke-Urahara-Code-Whiz&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-### Contribution Graph 🌟
-[![GitHub Streak](https://streak-stats.demolab.com/?user=octocat&theme=radical)](https://git.io/streak-stats)
+### 📈 **Overall GitHub Stats**  
+![Sougata's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kisuke-Urahara-Code-Whiz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true)
 
-### GitHub Trophies 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=octocat&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 **GitHub Profile Summary**  
+[![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kisuke-Urahara-Code-Whiz&theme=tokyonight)](https://github.com/vn7n24fzk/github-profile-summary-cards)
+
+### 💻 **Top Languages**  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kisuke-Urahara-Code-Whiz&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -66,13 +66,15 @@ Here are some of my favorite projects that I’ve worked on:
 ---
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sougata_Mondal-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sougata-mondal-ba3430330)  
-[![GitHub](https://img.shields.io/badge/GitHub-Kisuke--Urahara--Code--Whiz-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kisuke-Urahara-Code-Whiz)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-CodeWhizLyKus-orange?style=flat&logo=firefox&logoColor=white)](https://codewhizlykus.netlify.app)
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sougata-mondal-ba3430330)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kisuke-Urahara-Code-Whiz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://codewhizlykus.netlify.app)
+
 
 ---
 
-## 🌟Hacktoberfest 2024 Badges
+## 🌟 Hacktoberfest 2024 Badges
 [![An image of @kisukeuraharacodewhiz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kisukeuraharacodewhiz)](https://holopin.io/@kisukeuraharacodewhiz)
 
 ---
