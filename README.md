@@ -10,8 +10,8 @@ Let's make some cool stuff happen 💻🎮🚀
 
 ## 🎨 Featured Animations & Stats
 
-### 🔥 Contribution Graph  
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kisuke-Urahara-Code-Whiz&theme=react-dark&area=true&hide_border=true)](https://github.com/Kisuke-Urahara-Code-Whiz)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kisuke-Urahara-Code-Whiz&bg_color=1a1b27&color=9be5aa&line=5ABEFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ### 🌍 Top Languages  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kisuke-Urahara-Code-Whiz&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
