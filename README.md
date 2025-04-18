@@ -57,6 +57,11 @@ Let's make some cool stuff happen 💻🎮🚀
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-121212?style=for-the-badge&logo=cursor&logoColor=white)
+![Cursor AI](https://img.shields.io/badge/Cursor_AI-121212?style=for-the-badge&logo=cursor&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
 
 
 ---
