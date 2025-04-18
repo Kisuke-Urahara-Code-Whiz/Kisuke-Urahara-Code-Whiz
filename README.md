@@ -16,17 +16,8 @@ Let's make some cool stuff happen 💻🎮🚀
 <!-- GitHub Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kisuke-Urahara-Code-Whiz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<!-- GitHub Profile Stats -->
-[![Sougata's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kisuke-Urahara-Code-Whiz&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Language Stats (Improved layout) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kisuke-Urahara-Code-Whiz&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- Alternate Language Breakdown by Repo -->
 [![Langs Used](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kisuke-Urahara-Code-Whiz&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-<!-- Alternate Contributions by Repo -->
-[![Contribution Count](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kisuke-Urahara-Code-Whiz&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 
