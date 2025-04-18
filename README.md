@@ -28,10 +28,6 @@ Let's make some cool stuff happen 💻🎮🚀
 <!-- Alternate Contributions by Repo -->
 [![Contribution Count](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kisuke-Urahara-Code-Whiz&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-
-### 🌍 Top Languages  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kisuke-Urahara-Code-Whiz&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ## 🛠 Tech Stack
