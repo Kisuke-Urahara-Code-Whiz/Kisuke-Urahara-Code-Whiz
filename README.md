@@ -8,19 +8,6 @@ Let's make some cool stuff happen 💻🎮🚀
 
 ---
 
-## 🎨 Featured Animations & Stats
-
-<!-- GitHub Contribution Graph -->
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kisuke-Urahara-Code-Whiz&theme=tokyo-night&area=true&hide_border=true)](https://github.com/Kisuke-Urahara-Code-Whiz)
-
-<!-- GitHub Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kisuke-Urahara-Code-Whiz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-<!-- Alternate Language Breakdown by Repo -->
-[![Langs Used](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kisuke-Urahara-Code-Whiz&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
----
-
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
