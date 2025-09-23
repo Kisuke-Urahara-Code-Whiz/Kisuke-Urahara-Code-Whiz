@@ -53,6 +53,10 @@ Let's make some cool stuff happen 💻🎮🚀
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kisuke-Urahara-Code-Whiz&layout=compact&theme=dark)
+
+---
+
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sougata-mondal-ba3430330)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kisuke-Urahara-Code-Whiz)
