@@ -67,6 +67,11 @@ Let's make some cool stuff happen 💻🎮🚀
 
 ---
 
+## Hacktoberfest 2024 Badges
+[![An image of @kisukeuraharacodewhiz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kisukeuraharacodewhiz)](https://holopin.io/@kisukeuraharacodewhiz)
+
+---
+
 ### 🎉 Fun & Facts
 > "I love coding and gaming!"  
 
